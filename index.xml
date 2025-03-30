@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Archives</title><link>https://adtytiw.github.io/</link><description>Recent content in Home on Archives</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 30 Mar 2025 08:46:31 +0530</lastBuildDate><atom:link href="https://adtytiw.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Init</title><link>https://adtytiw.github.io/posts/init/</link><pubDate>Sun, 30 Mar 2025 08:46:31 +0530</pubDate><guid>https://adtytiw.github.io/posts/init/</guid><description>An introduction to the blog.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Archives ~</title><link>https://adtytiw.github.io/</link><description>Recent content in Home on Archives ~</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 30 Mar 2025 08:46:31 +0530</lastBuildDate><atom:link href="https://adtytiw.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Init</title><link>https://adtytiw.github.io/posts/init/</link><pubDate>Sun, 30 Mar 2025 08:46:31 +0530</pubDate><guid>https://adtytiw.github.io/posts/init/</guid><description>An introduction to the blog.</description></item><item><title>About</title><link>https://adtytiw.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adtytiw.github.io/about/</guid><description>&lt;p>Knowledge is fleeting if not documented. This space is an attempt to &lt;strong>log what we study, explore, and experiment with&lt;/strong>—a growing archive of thoughts, insights, and discoveries.&lt;/p>
+&lt;p>Whether it&amp;rsquo;s &lt;strong>AI/ML concepts, programming techniques, or useful resources&lt;/strong>, everything here serves as a &lt;strong>personal reference&lt;/strong> and a guide for anyone walking a similar path.&lt;/p>
+&lt;h3 class="heading" id="whats-inside">
+ &lt;strong>What’s Inside?&lt;/strong>
+ &lt;a class="anchor" href="#whats-inside">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Notes on &lt;strong>AI/ML, Python, and programming&lt;/strong>.&lt;/li>
+&lt;li>An evolving collection of &lt;strong>resources and tools&lt;/strong>.&lt;/li>
+&lt;li>Logs of &lt;strong>projects, ideas, and problem-solving approaches&lt;/strong>.&lt;/li>
+&lt;li>A way to look back, reflect, and improve over time.&lt;/li>
+&lt;/ul>
+&lt;p>This archive isn&amp;rsquo;t just about learning—it&amp;rsquo;s about &lt;strong>building a habit of documenting, refining ideas, and sharing knowledge&lt;/strong>.&lt;/p></description></item><item><title>Resources</title><link>https://adtytiw.github.io/resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adtytiw.github.io/resources/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://linuxcommand.org/">LinuxCommand.org&lt;/a> – Learn Linux commands from here.&lt;/li>
+&lt;li>&lt;a href="https://explainshell.com/">Explainshell&lt;/a> – Get explanations for shell commands.&lt;/li>
+&lt;/ul>
+&lt;h3 class="heading" id="git--version-control">
+ &lt;strong>Git &amp;amp; Version Control&lt;/strong>
+ &lt;a class="anchor" href="#git--version-control">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://git-scm.com/book/en/v2">Pro Git Book&lt;/a> – The official Git book, free to read.&lt;/li>
+&lt;li>&lt;a href="https://learngitbranching.js.org/">Learn Git Branching&lt;/a> – Interactive Git branching exercises.&lt;/li>
+&lt;li>&lt;a href="https://ohmygit.org/">Oh My Git!&lt;/a> – A gamified way to learn Git.&lt;/li>
+&lt;/ul>
+&lt;h3 class="heading" id="python">
+ &lt;strong>Python&lt;/strong>
+ &lt;a class="anchor" href="#python">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://thevalleyofcode.com/python/">The Python Handbook&lt;/a> – A simple yet deep guide to Python.&lt;/li>
+&lt;li>&lt;a href="https://realpython.com/">Real Python&lt;/a> – Tutorials, courses, and practice projects.&lt;/li>
+&lt;li>&lt;a href="https://gto76.github.io/python-cheatsheet/">Python Cheatsheet&lt;/a> – A quick reference for Python syntax.&lt;/li>
+&lt;/ul>
+&lt;h3 class="heading" id="machine-learning--ai">
+ &lt;strong>Machine Learning &amp;amp; AI&lt;/strong>
+ &lt;a class="anchor" href="#machine-learning--ai">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://developers.google.com/machine-learning/crash-course">Google’s Machine Learning Crash Course&lt;/a> – A beginner-friendly introduction.&lt;/li>
+&lt;li>&lt;a href="https://www.fast.ai/">FastAI&lt;/a> – Free AI/ML courses with practical projects.&lt;/li>
+&lt;li>&lt;a href="http://cs231n.stanford.edu/">Stanford CS231n&lt;/a> – Stanford&amp;rsquo;s deep learning course on computer vision.&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/learn">Kaggle Learn&lt;/a> – Hands-on courses for data science and ML.&lt;/li>
+&lt;li>&lt;a href="https://www.deeplearning.ai/">Deep Learning Specialization&lt;/a> – Andrew Ng’s deep learning course.&lt;/li>
+&lt;/ul></description></item></channel></rss>
